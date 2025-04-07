@@ -1,0 +1,9 @@
+[90m[main 2025-04-07T09:23:52.059Z][0m update#setState idle
+2025-04-07 11:23:52.442 Electron[5953:2755691] +[IMKClient subclass]: chose IMKClient_Modern
+2025-04-07 11:23:52.442 Electron[5953:2755691] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+(node:5953) [DEP0168] DeprecationWarning: Uncaught N-API callback exception detected, please run node with option --force-node-api-uncaught-exceptions-policy=true to handle those exceptions properly.
+(Use `Electron --trace-deprecation ...` to show where the warning was created)
+(node:5953) [DEP0168] DeprecationWarning: Uncaught N-API callback exception detected, please run node with option --force-node-api-uncaught-exceptions-policy=true to handle those exceptions properly.
+(node:5953) [DEP0168] DeprecationWarning: Uncaught N-API callback exception detected, please run node with option --force-node-api-uncaught-exceptions-policy=true to handle those exceptions properly.
+[90m[main 2025-04-07T09:24:22.066Z][0m update#setState checking for updates
+[90m[main 2025-04-07T09:24:22.238Z][0m update#setState idle
